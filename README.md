@@ -1,12 +1,12 @@
 CHATBOT
 
 FEATURES:
--It is a file handling based chatbot
--It uses tokenization, stemming, string filtering, hash functions, hash maps etc
--It loads the data files into hashmaps and then uses different techniques to answer the questions based on the data it has in the questionAnswers.txt file
--The exact same questions don't need to be in the data files, the program uses different techniques to understand and map the questions
--You can feed it more Questions and Answers into that file to expand it's knowledge
--If it is unable to answer a question, it will ask the user to tell it the answer so it can answer that question next time when asked.
+* It is a file handling based chatbot
+* It uses tokenization, stemming, string filtering, hash functions, hash maps etc
+* It loads the data files into hashmaps and then uses different techniques to answer the questions based on the data it has in the questionAnswers.txt file
+* The exact same questions don't need to be in the data files, the program uses different techniques to understand and map the questions
+* You can feed it more Questions and Answers into that file to expand it's knowledge
+* If it is unable to answer a question, it will ask the user to tell it the answer so it can answer that question next time when asked.
 
 NOTE:
 IF CHATBOT DOES NOT WORK:
